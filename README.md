@@ -7,9 +7,9 @@ Basic example with async webserver using nodeMCU ESP8285
 
 | Operation  | URI                                      |
 |------------|------------------------------------------|
-|`GET`       |"/async-esp8285/api/v1/dht22"             |
-|`GET`       |"/async-esp8285/api/v1/dht22/temperatures"|
-|`GET`       |"/async-esp8285/api/v1/dht22/humidities"  |
-|`PUT`       |"/async-esp8285/api/v1/led"               |
+|`GET`       |/async-esp8285/api/v1/dht22             |
+|`GET`       |/async-esp8285/api/v1/dht22/temperatures|
+|`GET`       |/async-esp8285/api/v1/dht22/humidities  |
+|`PUT`       |/async-esp8285/api/v1/led               |
 
 
